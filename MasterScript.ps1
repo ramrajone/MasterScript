@@ -205,7 +205,7 @@ switch ($userChoice){
         subMenu1 
         }
 
-    "4" { 
+    "4" {
         Clear-Host
             'Checking please wait'
             Write-Host 'Your Windows Version is: '
